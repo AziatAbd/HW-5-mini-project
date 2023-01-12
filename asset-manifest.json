@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-5/mini-project/static/css/main.98a22de9.css",
+    "main.js": "/HW-5/mini-project/static/js/main.dacaef4c.js",
+    "index.html": "/HW-5/mini-project/index.html",
+    "main.98a22de9.css.map": "/HW-5/mini-project/static/css/main.98a22de9.css.map",
+    "main.dacaef4c.js.map": "/HW-5/mini-project/static/js/main.dacaef4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a22de9.css",
+    "static/js/main.dacaef4c.js"
+  ]
+}
